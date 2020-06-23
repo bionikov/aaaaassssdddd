@@ -1,0 +1,46 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: Garamond;
+}
+header
+{
+	background-color: RosyBrown;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+#formularz
+{
+	background-color: DarkSalmon;
+	text-align: center;
+	padding: 40px;
+}
+#lewy, #prawy
+{
+	background-color: LightSalmon;
+	height: 300px;
+	width: 30%;
+	float: left;
+}
+#srodek
+{
+	background-color: LightSalmon;
+	height: 300px;
+	width: 40%;
+	float: left;
+}
+footer
+{
+	background-color: RosyBrown;
+	color: white;
+	text-align: center;
+	padding: 30px;
+	clear: both;
+}
+ol
+{
+ border: 2px solid rgb(205,92,92);
+ font-size: 150%;
+}
